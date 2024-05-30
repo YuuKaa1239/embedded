@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../GOOGLE CLOUD"
+		},
+		{
+			"name": "esp8266",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
